@@ -1,4 +1,4 @@
-# Moon Catcher Wire
+# mooncatcherwire-com
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,13 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Moon Catcher Wire provides AI‑ranked crypto news, aggregating stories from dozens of publishers and scoring them for sentiment, market impact, and price movement since publication. The platform offers a free, continuously updated feed that highlights bullish, neutral, and bearish trends across major cryptocurrencies, stablecoins, and related assets, helping investors and enthusiasts stay informed about market dynamics.
+mooncatcherwire-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
 
-**Areas:** Crypto · News · AI · Aggregator · MarketData · Company
+**Areas:** Company
 
-## Moon Catcher Wire on APIs.io
+## mooncatcherwire-com on APIs.io
 
-Everything profiled for Moon Catcher Wire is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mooncatcherwire-com/](https://apis.io/providers/mooncatcherwire-com/)** — or go straight to one of the APIs or properties below.
+Everything profiled for mooncatcherwire-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mooncatcherwire-com/](https://apis.io/providers/mooncatcherwire-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Moon Catcher Wire API](https://apis.io/apis/mooncatcherwire-com/moon-catcher-wire-api/) — Read-only crypto news API providing top stories, search, and market digest.
 
 ### Published properties
 
@@ -80,7 +84,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Moon Catcher Wire Domain Security](https://apis.io/security/mooncatcherwire-com/mooncatcherwire-com-domain-security/)
+- [mooncatcherwire-com Domain Security](https://apis.io/security/mooncatcherwire-com/mooncatcherwire-com-domain-security/)
 
 ## Where to find this API
 
@@ -93,25 +97,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 9.4** — minimal · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 8.7** — minimal · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
-| Discoverability | 58.9 |
+| Discoverability | 50.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 2.4 |
 | Access clarity | 17.0 |
 
-**Agent readiness 27.3** — agent-aware
+**Agent readiness 30.4** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | — |
+| MCP Server | documented (partial credit) |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -131,7 +135,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mooncatcherwire-com/](https://apis.io/providers/mooncatcherwire-com/).
 
@@ -139,7 +143,7 @@ The rubric is published at [github.com/api-evangelist/kin-score](https://github.
 
 API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Moon Catcher Wire: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for mooncatcherwire-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
 ## Open an issue
 
